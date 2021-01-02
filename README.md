@@ -1,6 +1,6 @@
 ***
 Philippe heyvaert
-Gewijzigd op: zaterdag 2 januari 2021 18:23:54 CET
+Gewijzigd op: za jan  2 18:56:56 CET 2021
 ***
 
 # Headers
@@ -8,6 +8,8 @@ Gewijzigd op: zaterdag 2 januari 2021 18:23:54 CET
 ## Bash
 - bashrc header
 - file: phbashrc.txt
+- bash_aliases header
+- file: phbashaliases.txt
 
 ## Config
 - config-file header
