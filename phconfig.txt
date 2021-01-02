@@ -8,7 +8,7 @@
 #
 # Auteur: Philippe Heyvaert
 # e-mail: philippehgbheyvaert@gmail.com
-# github: http//www.github.com/ph17974/
+# github: http://www.github.com/ph17974/
 #
 # Dit is een configuratie bestand voor
 # Gewijzigd op
