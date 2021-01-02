@@ -1,0 +1,13 @@
+#  ____  _   _   _               _
+# |  _ \| | | | | |__   __ _ ___| |__  _ __ ___
+# | |_) | |_| | | '_ \ / _` / __| '_ \| '__/ __|
+# |  __/|  _  | | |_) | (_| \__ \ | | | | | (__
+# |_|   |_| |_| |_.__/ \__,_|___/_| |_|_|  \___|
+#
+# Auteur: Philippe Heyvaert
+# e-mail: philippehgbheyvaert@gmail.com
+# github: http//www.github.com/ph17974/
+#
+# Dit is mijn bash configuratie.
+# Gewijzigd op
+#
