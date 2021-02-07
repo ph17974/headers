@@ -10,6 +10,6 @@
 # e-mail: philippehgbheyvaert@gmail.com
 # github: http://www.github.com/ph17974/
 #
-# Dit is script is voor
+# Dit is een script voor
 # Gewijzigd op
 #
